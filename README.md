@@ -44,7 +44,7 @@ Este es el frontend de la aplicación de gestión de personajes, desarrollado co
 ### Ejecución
 Para iniciar el servidor de desarrollo:
 ```bash
-npm start
+npm run dev
 ```
 El frontend estará disponible en `http://localhost:3000`.
 
