@@ -25,6 +25,7 @@ Este es el frontend de la aplicación de gestión de personajes, desarrollado co
 ## Instalación y Configuración
 ### Prerrequisitos
 1. Tener instalado **Node.js** (recomendado v16 o superior).
+2. Disponer del servidor Backend (https://github.com/AlejandroG095/personajes-backend)
 
 ### Instalación
 1. Clonar el repositorio:
@@ -42,6 +43,8 @@ Este es el frontend de la aplicación de gestión de personajes, desarrollado co
 
 
 ### Ejecución
+Ejecutar el Backend del proyecto para obtener los datos de los personajes y renderizar adecuadamente las vistas.
+
 Para iniciar el servidor de desarrollo:
 ```bash
 npm run dev
